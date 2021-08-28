@@ -1,6 +1,8 @@
 ### Hi, I'm Abdan Zam Zam Ramadhan 👋
 
-Here are some ideas to get you started:
+I am full stack developer. I am a person who is very interested in the world of technology and always explores what problems can be solved with technology. Ready to always learn new and challenging things. I'm currently more obsessed with development on the user side.
+
+Technology Stack:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
