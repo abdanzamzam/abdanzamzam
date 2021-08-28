@@ -8,8 +8,7 @@ Technology Stack:
 - 🌱 [LinkedIn](https://www.linkedin.com/in/abdanzamzam)
 - 👯 [Instagram](https://www.instagram.com/abdanzamzam)
 - 🤔 [My Blog](https://blog.abdan.xyz)
-- 💬 [Serambi Laravel](https://serambilaravel.com/)
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 [Serambi Laravel](https://serambilaravel.com)
+- 😄 [Bigsource](https://bigsource.co)
+- ⚡ [Bigsource Project](https://bigsourceproject.com)
 -->
