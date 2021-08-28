@@ -9,5 +9,4 @@ Technology Stack:
 - 👯 [Instagram](https://www.instagram.com/abdanzamzam)
 - 🤔 [My Blog](https://blog.abdan.xyz)
 - 💬 [Serambi Laravel](https://serambilaravel.com)
-- 😄 [Bigsource](https://bigsource.co)
-- ⚡ [Bigsource Project](https://bigsourceproject.com)
+- 😄 [Bigsource](https://bigsource.tech)
