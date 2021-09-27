@@ -9,4 +9,3 @@ My Circle Ecosystem:
 - 👯 [Instagram](https://www.instagram.com/abdanzamzam)
 - 🤔 [My Blog](https://blog.abdan.xyz)
 - 💬 [Serambi Laravel](https://serambilaravel.com)
-- 😄 [Bigsource Tech](https://bigsource.tech)
