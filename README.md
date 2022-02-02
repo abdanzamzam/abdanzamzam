@@ -10,4 +10,4 @@ My Circle Ecosystem:
 - 🌱 [LinkedIn](https://www.linkedin.com/in/abdanzamzam)
 - 👯 [Instagram](https://www.instagram.com/abdanzamzam)
 - 🤔 [My Blog](https://blog.abdan.xyz)
-- 💬 [Serambi Laravel](https://serambilaravel.com)
+- 💬 [TailwindCSS Components](https://tailwindcomponents.com/u/abdanzamzam)
