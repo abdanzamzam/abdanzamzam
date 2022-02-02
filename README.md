@@ -11,4 +11,3 @@ My Circle Ecosystem:
 - [Instagram](https://www.instagram.com/abdanzamzam)
 - [My Blog](https://blog.abdan.xyz)
 - [TailwindCSS Components](https://tailwindcomponents.com/u/abdanzamzam)
-- [CodePen](https://codepen.io/abdanzamzam)
