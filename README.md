@@ -6,7 +6,7 @@ I am full stack software developer. I am a person who is very interested in the 
 
 My Circle Ecosystem:
 
-- [You Tube](https://www.youtube.com/channel/UCQoc7JPnIgt8mSx0Ah9v1WA)
+- [Abdan Labs (Chanel YouTube)](https://www.youtube.com/channel/UCQoc7JPnIgt8mSx0Ah9v1WA)
 - [LinkedIn](https://www.linkedin.com/in/abdanzamzam)
 - [Instagram](https://www.instagram.com/abdanzamzam)
 - [My Blog](https://blog.abdan.xyz)
