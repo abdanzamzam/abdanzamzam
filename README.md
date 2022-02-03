@@ -2,7 +2,7 @@
 
 [![Abdan Zam Zam R. github stats](https://github-readme-stats.vercel.app/api?username=abdanzamzam&count_private=true)](https://github.com/abdanzamzam)
 
-I am full stack software developer. I am a person who is very interested in the world of technology and always explores what problems can be solved with technology. Ready to always learn new and challenging things. I'm currently more obsessed with development on the user side. Please contact me for projects.
+I am full stack software developer. I am a person who is very interested in the world of technology and always explores what problems can be solved with technology. Ready to always learn new and challenging things. I'm currently more obsessed with development on the user and back side. Please contact me for projects.
 
 My Circle Ecosystem:
 
