@@ -9,5 +9,6 @@ My Circle Ecosystem:
 - [Abdan Labs (YouTube Channel)](https://www.youtube.com/channel/UCQoc7JPnIgt8mSx0Ah9v1WA)
 - [LinkedIn](https://www.linkedin.com/in/abdanzamzam)
 - [Instagram](https://www.instagram.com/abdanzamzam)
+- [Facebook](https://web.facebook.com/abdanzamzam)
 - [My Blog](https://blog.abdan.xyz)
 - [TailwindCSS Components](https://tailwindcomponents.com/u/abdanzamzam)
