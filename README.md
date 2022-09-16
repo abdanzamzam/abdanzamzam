@@ -13,10 +13,10 @@
 </div>  
 <p align="justify"> 
 Hello 🖐️ friends, welcome to my github
-I am reza shakeri and I tried most fields of programming such as game development, mobile application development, web design and development, etc., and finally I was able to find my interest, and that was web design and development and security . It has been almost 10 years. I am coding and now I am a computer engineering student
+I am abdan zam zam r and I tried most fields of programming such as mobile application development, web design and development, automation, etc., and finally I was able to find my interest, and that was web design and development, backend development and security . It has been almost 4 years. I am coding and now I am a informatics engineering student
 &nbsp;
 
-In addition to my personal page, you can also follow my main page called <a href="https://www.instagram.com/barnamenevisiinsta/">barnamenevisiinsta</a> on Instagram.
+In addition to my personal page, you can also follow my main page called <a href="https://www.instagram.com/abdanzamzam/">@abdanzamzam</a> on Instagram.
 </p>
 
 
@@ -33,35 +33,35 @@ I code with :  👇
 <details> 
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=rzashakeri&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzashakeri&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="abdanzamzam's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=abdanzamzam&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+  <a href="https://github.com/abdanzamzam/github-readme-stats"><img alt="abdanzamzam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdanzamzam&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
 </details>
 
 <details>
   <summary>Activity Graph 📈</summary>
   <br/>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=rzashakeri&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="abdanzamzam's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=abdanzamzam&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
 </details>
 
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=rzashakerie&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+  <img src="https://komarev.com/ghpvc/?username=abdanzamzam&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
 </details>
 
 ## Recent GitHub Activity ✅
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/rzashakeri/file_validator/pull/6) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
-2. 🗣 Commented on [#6](https://github.com/rzashakeri/file_validator/issues/6) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
-3. 🎉 Merged PR [#7](https://github.com/rzashakeri/file_validator/pull/7) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
-4. 🎉 Merged PR [#8](https://github.com/rzashakeri/file_validator/pull/8) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
-5. 💪 Opened PR [#7](https://github.com/rzashakeri/file_validator/pull/7) in [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator)
+1. 🎉 Merged PR [#6](https://github.com/abdanzamzam/file_validator/pull/6) in [abdanzamzam/file_validator](https://github.com/abdanzamzam/file_validator)
+2. 🗣 Commented on [#6](https://github.com/abdanzamzam/file_validator/issues/6) in [abdanzamzam/file_validator](https://github.com/abdanzamzam/file_validator)
+3. 🎉 Merged PR [#7](https://github.com/abdanzamzam/file_validator/pull/7) in [abdanzamzam/file_validator](https://github.com/abdanzamzam/file_validator)
+4. 🎉 Merged PR [#8](https://github.com/abdanzamzam/file_validator/pull/8) in [abdanzamzam/file_validator](https://github.com/abdanzamzam/file_validator)
+5. 💪 Opened PR [#7](https://github.com/adanzamzam/file_validator/pull/7) in [abdanzamzam/file_validator](https://github.com/abdanzamzam/file_validator)
 <!--END_SECTION:activity-->
 
 ## GitHub Profile Trophy 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdanzamzam&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 
