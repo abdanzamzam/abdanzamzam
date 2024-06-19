@@ -8,7 +8,7 @@
 
 ⚡ Fun fact: I use double quotes over single quotes
 
-### 👨🏻‍💻 React Native (Expo)
+### 👨🏻‍💻 Another Github Channel
 https://github.com/AbdanExpoDev
 
 ### :computer: Languages, Frameworks & Tools
